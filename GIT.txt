@@ -1,0 +1,1 @@
+git is a version controlling system of a project that is being devloped by multiple device working on it simultaneously
