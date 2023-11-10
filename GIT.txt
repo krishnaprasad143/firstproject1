@@ -1,1 +1,21 @@
-git is a version controlling system of a project that is being devloped by multiple device working on it simultaneously
+
+Git is a version controlling system of a project that is being developed by multiple device working on it simultaneously   
+
+GITHUB:-
+github is a website where you can maintain your project and control various version of ur project using git
+-> user intrface 
+
+website:-collection of webpages
+WEBPAGE:-It is electronic page written in html,it is sharing info across the world 
+
+
+we can create an gethub account first
+
+->repositery is a word complete information about a single project 
+->repositery consists of multiple folders 
+->it can also stored multiple types of files
+
+
+ github also allows our project from repositery to link with the domain
+
+->https://github.com/krishnaprasad143/firstproject.git
